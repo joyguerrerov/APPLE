@@ -9,6 +9,7 @@
     display: flex;
     align-items: center;
 }
+/* modificadores `hijos´ */
 
 .b-section__left{
     width: 50%;
@@ -21,6 +22,8 @@
     height: auto;
     background-size: cover;
 }
+/* modificadores `hijos de hijos´ */
+
 .b-text{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
